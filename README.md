@@ -4,7 +4,7 @@ Aberdeen, UK. Ex-Apple Genius, ten years turning complicated technology into som
 
 I run **Machines Do It Better**, an early-stage solo practice building agent tooling around privacy, data sovereignty and customisation. No clients yet — it is the bet I am making, and I would rather say so than imply otherwise.
 
-Local inference on my own hardware: llama.cpp serving a quantised open-weights model from an RTX 5090, wired into Hermes Agent as an endpoint.
+Local inference on my own hardware: llama.cpp serving a dense Qwen3 27B (GGUF, Q6) from an RTX 5090, wired into Hermes Agent as an endpoint.
 
 **Written and deployed by me**
 - [memento-mori](https://github.com/ponzgpt/memento-mori) — a life-expectancy perspective app, live at [memento.technoir.cloud](https://memento.technoir.cloud/), deployed by me with Docker and Traefik behind a release gate that refuses to publish on red
