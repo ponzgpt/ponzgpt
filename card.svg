@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 902 508" width="902" height="508" font-family="Consolas,'SFMono-Regular','Courier New',monospace" font-size="15px">
+<rect width="902" height="508" rx="14" fill="#0d0c0a"/>
+<rect x="0.5" y="0.5" width="901" height="507" rx="14" fill="none" stroke="#5d503d" stroke-opacity="0.5"/>
+<text x="22" y="26" fill="#e1c891" xml:space="preserve">
+<tspan x="22" y="26">          ██████████████          </tspan>
+<tspan x="22" y="46">      ██████████████████████      </tspan>
+<tspan x="22" y="66">    ██████████████████████████    </tspan>
+<tspan x="22" y="86">  ██████████████████████████████  </tspan>
+<tspan x="22" y="106"> ████████████████████████████████ </tspan>
+<tspan x="22" y="126">█████       ██████████       █████</tspan>
+<tspan x="22" y="146">████          ██████          ████</tspan>
+<tspan x="22" y="166">████          ██████          ████</tspan>
+<tspan x="22" y="186">█████        ████████        █████</tspan>
+<tspan x="22" y="206"> ████████████████████████████████ </tspan>
+<tspan x="22" y="226">  ██████████████  ██████████████  </tspan>
+<tspan x="22" y="246">    ██████████      ██████████    </tspan>
+<tspan x="22" y="266">       ██████        ██████       </tspan>
+<tspan x="22" y="286">        ██████████████████        </tspan>
+<tspan x="22" y="306">       ████████████████████       </tspan>
+<tspan x="22" y="326">       █████████   ████████       </tspan>
+<tspan x="22" y="346">       █████████   ████████       </tspan>
+<tspan x="22" y="366">        ████████   ███████        </tspan>
+<tspan x="22" y="386">           █████   ████           </tspan>
+</text>
+<text xml:space="preserve">
+<tspan x="366.1" y="26" fill="#fffaf0" font-weight="600">javier@aberdeen</tspan>
+<tspan x="366.1" y="46" fill="#5d503d">---------------</tspan>
+<tspan x="366.1" y="66" fill="#c39b5b">os       </tspan>
+<tspan x="449.8" y="66" fill="#f3eddf">Spain, based in Scotland</tspan>
+<tspan x="366.1" y="86" fill="#c39b5b">prior    </tspan>
+<tspan x="449.8" y="86" fill="#f3eddf">Apple Retail, 10 years</tspan>
+<tspan x="366.1" y="106" fill="#c39b5b">roles    </tspan>
+<tspan x="449.8" y="106" fill="#f3eddf">sales, support, leadership</tspan>
+<tspan x="366.1" y="126" fill="#c39b5b">now      </tspan>
+<tspan x="449.8" y="126" fill="#f3eddf">AI agents, full-time, 2y in</tspan>
+<tspan x="366.1" y="146" fill="#c39b5b">belief   </tspan>
+<tspan x="449.8" y="146" fill="#f3eddf">open source must win</tspan>
+<tspan x="366.1" y="166" fill="#c39b5b">stack    </tspan>
+<tspan x="449.8" y="166" fill="#f3eddf">Omarchy, llama.cpp, Hermes Agent</tspan>
+<tspan x="366.1" y="186" fill="#c39b5b">gpu      </tspan>
+<tspan x="449.8" y="186" fill="#f3eddf">RTX 5090</tspan>
+<tspan x="366.1" y="206" fill="#c39b5b">model    </tspan>
+<tspan x="449.8" y="206" fill="#f3eddf">Qwen3-27B (Q6)</tspan>
+<tspan x="366.1" y="226" fill="#c39b5b">learning </tspan>
+<tspan x="449.8" y="226" fill="#f3eddf">vLLM, Proxmox, homelab</tspan>
+</text>
+<rect x="366.1" y="252" width="22" height="22" rx="4" fill="#c39b5b"/>
+<rect x="394.1" y="252" width="22" height="22" rx="4" fill="#e1c891"/>
+<rect x="422.1" y="252" width="22" height="22" rx="4" fill="#9eae96"/>
+<rect x="450.1" y="252" width="22" height="22" rx="4" fill="#fffaf0"/>
+<rect x="478.1" y="252" width="22" height="22" rx="4" fill="#aaa091"/>
+<rect x="506.1" y="252" width="22" height="22" rx="4" fill="#5d503d"/>
+<text x="22" y="466" xml:space="preserve">
+<tspan fill="#9eae96">javier@aberdeen:~$ </tspan>
+<tspan fill="#e1c891">█</tspan>
+</text>
+</svg>
