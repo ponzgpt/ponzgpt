@@ -1,30 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 597 290" width="597" height="290" font-family="Consolas,'SFMono-Regular','Courier New',monospace" font-size="16px">
-<rect width="597" height="290" rx="6" fill="#0a0908"/>
-<rect x="0.5" y="0.5" width="596" height="289" rx="6" fill="none" stroke="#3d2410"/>
-<text xml:space="preserve">
-<tspan x="24" y="40" fill="#f2790a">os       </tspan>
-<tspan x="113.3" y="40" fill="#f5e6d3">Spain, based in Scotland</tspan>
-<tspan x="24" y="62" fill="#f2790a">prior    </tspan>
-<tspan x="113.3" y="62" fill="#f5e6d3">Apple Retail, 10 years</tspan>
-<tspan x="24" y="84" fill="#f2790a">roles    </tspan>
-<tspan x="113.3" y="84" fill="#f5e6d3">sales, support, leadership</tspan>
-<tspan x="24" y="106" fill="#f2790a">now      </tspan>
-<tspan x="113.3" y="106" fill="#f5e6d3">AI agents, full-time, 2y in</tspan>
-<tspan x="24" y="128" fill="#f2790a">belief   </tspan>
-<tspan x="113.3" y="128" fill="#f5e6d3">open source must win</tspan>
-<tspan x="24" y="150" fill="#f2790a">stack    </tspan>
-<tspan x="113.3" y="150" fill="#f5e6d3">Omarchy, llama.cpp, Hermes Agent</tspan>
-<tspan x="24" y="172" fill="#f2790a">gpu      </tspan>
-<tspan x="113.3" y="172" fill="#f5e6d3">RTX 5090</tspan>
-<tspan x="24" y="194" fill="#f2790a">model    </tspan>
-<tspan x="113.3" y="194" fill="#f5e6d3">Qwen3-27B (Q6)</tspan>
-<tspan x="24" y="216" fill="#f2790a">learning </tspan>
-<tspan x="113.3" y="216" fill="#f5e6d3">vLLM, Proxmox, homelab</tspan>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1305 662" width="1305" height="662" font-family="Consolas,'SFMono-Regular','Courier New',monospace" font-size="13px">
+<rect width="1305" height="662" rx="6" fill="#0f0c02"/>
+<rect x="0.5" y="0.5" width="1304" height="661" rx="6" fill="none" stroke="#4a3105"/>
+<text x="26" y="39.0" fill="#cd8c07" xml:space="preserve">
+<tspan x="26" y="39.0">                .-=++*##%%@@@@@@@@@@@@@+ =@-:@@.=@@ +%* ==-.                  </tspan>
+<tspan x="26" y="55.5">            =#%@@@@@@@@@@@@@@@@@=%@@@@@+ =@-:%@.-@@ +@% #@@@@*                </tspan>
+<tspan x="26" y="72.0">           *@@@@@@@@@@@@@@@@@@@-:@@@@@@+ =@- *@: %@  @% .@*+@# +@%=.          </tspan>
+<tspan x="26" y="88.5">          #@@@@@@@@@@@@@@@@@@@=.@@@@@@@+ =@#+%@*+@@++@% .@@%@%%@@@@@#-        </tspan>
+<tspan x="26" y="105.0">        .%@@@@@@@@@@@@@@@@@@@+ %@@@@@@@+ =*:@@#.%+:::+@+.@@@*:-=::+%@@#       </tspan>
+<tspan x="26" y="121.5">       :@@@@@@@@@@@@@@@@@@@@* #@@@@@@@@+ =+ @@.#:.@@% =@-@%* :+++- =#@#==     </tspan>
+<tspan x="26" y="138.0">      -@@@@@@@@@@@@@@@@@@@@# *@@@@@@@@@+ =+ @-=@= *%* *@:@#- =@@@# :+@@*@%.   </tspan>
+<tspan x="26" y="154.5">     =@@@%#**+++++++++**### +@@@@@@@@@@+ =%+#-@@@%+++%@:.@%+ :***= -*@%+%@%.  </tspan>
+<tspan x="26" y="171.0">    .-.                     +@@@@@@@@@@+ =@+:#@=:-:+@%-.#@@@+.--.:=%@+=====:  </tspan>
+<tspan x="26" y="187.5">          .##%#:             .*@@@@@@@@+ =@- *@. :#%-.*@=:@@@%@@##%@@.-++*-   </tspan>
+<tspan x="26" y="204.0">         .%@@@#                :#@@@@@@+ =+ ++..*@=.+@+.=@*:%@#: .:  . ..@=   </tspan>
+<tspan x="26" y="220.5">     .*::@@@@*    =###########* :@@@@@@+ ==.# +@@*+@+.-%#.:#%: +-=+-:=-=-@%###</tspan>
+<tspan x="26" y="237.0">    .#:-@@@@*    :@@@@@@@@@@@# =@@@@@@@+ ==.# %::::.-%#::#%- . #:=+-.-:=:@*---</tspan>
+<tspan x="26" y="253.5">    *.+@@@@*     %@@@@@@@@@@=.#@@@@@@@@+ ++-% @.+####:.*@=  @= #+========@#===</tspan>
+<tspan x="26" y="270.0">    .#@@@@*     +@@@@@@@@@%::@@@@@@@@@@%*:::=.= =*===*@%===+@= #.      -.@%###</tspan>
+<tspan x="26" y="286.5">   -@@@@@+     :@@@@@@@@@* +@@@@@@@@@@@%+ @@@@@:-+-----------. #===---=-=@+:::</tspan>
+<tspan x="26" y="303.0">  *@@@@@=      %@@@@@@@@-.%@@@@@@@@@@@@#= @@@@@:+%###########- #.-=: :.-.@#+++</tspan>
+<tspan x="26" y="319.5">:%@@@@@@%%@@@#::@@@@@@@% #@@@@@@@@@@@@@%* +****.=*--. .------. #+========@%###</tspan>
+<tspan x="26" y="336.0">******#%@@@@@@% +@@@@@@% #@@@@@@@@@@@@@*.++-#.#.-==+@*.-=====. #:....-:=:@+:::</tspan>
+<tspan x="26" y="352.5">         .-+*%- %@@@@@@% #@@@@@@@@@@@@@+ ==:# %.=##= =@######- %==+=:=-=-@#***</tspan>
+<tspan x="26" y="369.0">  =:          .=@@@@@@@% #@@@@@@@@@@@@@+ ==.#:.++:.*%= +@+..@= #..:. . ..@=   </tspan>
+<tspan x="26" y="385.5">  @@+     :=#@@@@@@@@@@% #@@@@@@@@@@@@@+ .*= =# .%#:.*%- +@+   +**********-   </tspan>
+<tspan x="26" y="402.0"> :@@%*+#%@@@@@@@@@@@@@@% #@@@@@@@@@@@@@+   -* %   -%#::#%-.*@+----------:     </tspan>
+<tspan x="26" y="418.5"> -*::-=:..-+*%@@@@@@@@@% #@@@@@@@@@@@@@: - :* % .@= -%*.:#%:.++++%##%*@@*     </tspan>
+<tspan x="26" y="435.0">  .-=======-:..:=#@@@@@% #@@@@@@@@@@@@* .# :* % .@@%= =@*.-%%####@%%@%@+      </tspan>
+<tspan x="26" y="451.5"> =@%%%%%%%%%@@@@%#@@@@@% #@@@@@@@@@@@@. ## :* % .@@#%%- +@+.-+++++++++.       </tspan>
+<tspan x="26" y="468.0"> .@-        *@@@@@@@@@@% #@@@@@@@@@@@= -@# :* % .@:+.@@%. @# -+++=-           </tspan>
+<tspan x="26" y="484.5"> .@@*******%@@@@@@@@@@@% #@@@@@@@@@@%  %@# :* % .@%*#%%@- @% *@+%@*           </tspan>
+<tspan x="26" y="501.0"> =@@@@@@@@@@@@@@@@@@@@@% #@@@@@@@@@%: +@@# .*=# .@+====@- @%=%@ +=            </tspan>
+<tspan x="26" y="517.5"> #@@@@@@@@@@@@@@@@@@@@@% #@@@@@#+=:  :@@@# :+++..@+====@- @@#@%               </tspan>
+<tspan x="26" y="534.0"> @@@@@@@@@@@@@@@@@@@@@@% +*=-.    :+%@@@@# +@@@:.@+====@- @@@-                </tspan>
+<tspan x="26" y="550.5">-@@@@@@@@@@@@@@@@@@%#+-.       -*@@@@@@@@# :===  +++++++. =+.                 </tspan>
+<tspan x="26" y="567.0"> -%%%%%%%%%%%%*+-:          -*@@@@@@@@@@@# +@@@:.**********:                  </tspan>
+<tspan x="26" y="583.5">                         =#@@@@@%*@@@@@@@# =%%%..@@@@@@@@@@=                  </tspan>
+<tspan x="26" y="600.0">                     .=#@@@@@@@@..@@@@@@@# .- -=+@@@@@@@@@@*                  </tspan>
+<tspan x="26" y="616.5">                    *@@@@@@@@@@@..@@@@@@@# :* %@@@@@@@@@@@@#                  </tspan>
+<tspan x="26" y="633.0">                    #@@@@@@@@@@@..@@@@@@@# :* %@@@@@@@@@@@@@                  </tspan>
 </text>
-<rect x="24.0" y="238.39999999999998" width="22" height="22" fill="#0a0908"/>
-<rect x="52.0" y="238.39999999999998" width="22" height="22" fill="#5a3016"/>
-<rect x="80.0" y="238.39999999999998" width="22" height="22" fill="#c97b2e"/>
-<rect x="108.0" y="238.39999999999998" width="22" height="22" fill="#f2790a"/>
-<rect x="136.0" y="238.39999999999998" width="22" height="22" fill="#ff9d2e"/>
-<rect x="164.0" y="238.39999999999998" width="22" height="22" fill="#f5e6d3"/>
+<text xml:space="preserve">
+<tspan x="657.8" y="212.2" fill="#cd8c07">OS:            </tspan>
+<tspan x="774.8" y="212.2" fill="#f2e6c8">Espanol x86_64, Scotland build</tspan>
+<tspan x="657.8" y="228.8" fill="#cd8c07">Host:          </tspan>
+<tspan x="774.8" y="228.8" fill="#f2e6c8">Apple Retail (10y: sales, support, lead)</tspan>
+<tspan x="657.8" y="245.2" fill="#cd8c07">Kernel:        </tspan>
+<tspan x="774.8" y="245.2" fill="#f2e6c8">self-taught-2.0-agents</tspan>
+<tspan x="657.8" y="261.8" fill="#cd8c07">Uptime:        </tspan>
+<tspan x="774.8" y="261.8" fill="#f2e6c8">2 years, still compiling</tspan>
+<tspan x="657.8" y="278.2" fill="#cd8c07">Packages:      </tspan>
+<tspan x="774.8" y="278.2" fill="#f2e6c8">9 repos, zero bloat</tspan>
+<tspan x="657.8" y="294.8" fill="#cd8c07">Shell:         </tspan>
+<tspan x="774.8" y="294.8" fill="#f2e6c8">bash, but I live in llama.cpp</tspan>
+<tspan x="657.8" y="311.2" fill="#cd8c07">Resolution:    </tspan>
+<tspan x="774.8" y="311.2" fill="#f2e6c8">2 years, no going back</tspan>
+<tspan x="657.8" y="327.8" fill="#cd8c07">WM:            </tspan>
+<tspan x="774.8" y="327.8" fill="#f2e6c8">Hyprland, via Omarchy</tspan>
+<tspan x="657.8" y="344.2" fill="#cd8c07">WM Theme:      </tspan>
+<tspan x="774.8" y="344.2" fill="#f2e6c8">No Skin Selectors</tspan>
+<tspan x="657.8" y="360.8" fill="#cd8c07">Theme:         </tspan>
+<tspan x="774.8" y="360.8" fill="#f2e6c8">Open Source Must Win [dark]</tspan>
+<tspan x="657.8" y="377.2" fill="#cd8c07">Icons:         </tspan>
+<tspan x="774.8" y="377.2" fill="#f2e6c8">hand-drawn calavera, no bones-and-ash</tspan>
+<tspan x="657.8" y="393.8" fill="#cd8c07">Terminal:      </tspan>
+<tspan x="774.8" y="393.8" fill="#f2e6c8">Ghostty, Omarchy default</tspan>
+<tspan x="657.8" y="410.2" fill="#cd8c07">Terminal Font: </tspan>
+<tspan x="774.8" y="410.2" fill="#f2e6c8">whatever shipped, never touched it</tspan>
+<tspan x="657.8" y="426.8" fill="#cd8c07">CPU:           </tspan>
+<tspan x="774.8" y="426.8" fill="#f2e6c8">irrelevant, ask the GPU</tspan>
+<tspan x="657.8" y="443.2" fill="#f0b030">GPU:           </tspan>
+<tspan x="774.8" y="443.2" fill="#f2e6c8">RTX 5090, the whole point</tspan>
+<tspan x="657.8" y="459.8" fill="#cd8c07">Memory:        </tspan>
+<tspan x="774.8" y="459.8" fill="#f2e6c8">Qwen3-27B, Q6 quantized (lossy, like memory)</tspan>
+</text>
 </svg>
