@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ponzgpt/ponzgpt/main/card.svg" alt="javier@aberdeen neofetch-style card">
+<img src="https://raw.githubusercontent.com/ponzgpt/ponzgpt/main/card.svg" alt="quick facts card">
 
 ### Javier Ponz
 
