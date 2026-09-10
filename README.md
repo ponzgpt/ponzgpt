@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ponzgpt/ponzgpt/main/card.svg?v=2" alt="quick facts card">
+<img src="https://raw.githubusercontent.com/ponzgpt/ponzgpt/main/card.svg?v=3" alt="quick facts card">
 
 ### Javier Ponz
 
