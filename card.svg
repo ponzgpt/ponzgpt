@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1305 413" width="1305" height="413" font-family="Consolas,'SFMono-Regular','Courier New',monospace">
-<rect width="1305" height="413" rx="6" fill="#0f0c02"/>
-<rect x="0.5" y="0.5" width="1304" height="412" rx="6" fill="none" stroke="#4a3105"/>
-<g transform="translate(26.0 26.0) scale(0.59117)" fill="#cd8c07" font-size="13px">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 520" width="1160" height="520" font-family="Consolas,'SFMono-Regular','Courier New',monospace">
+<rect width="1160" height="520" rx="6" fill="#0f0c02"/>
+<rect x="0.5" y="0.5" width="1159" height="519" rx="6" fill="none" stroke="#4a3105"/>
+<g transform="translate(26.0 26.0) scale(0.7)" fill="#cd8c07" font-size="13px">
 <text x="0" y="0" xml:space="preserve">
 <tspan x="0" y="13.0">                .-=++*##%%@@@@@@@@@@@@@+ =@-:@@.=@@ +%* ==-.                  </tspan>
 <tspan x="0" y="29.5">            =#%@@@@@@@@@@@@@@@@@=%@@@@@+ =@-:%@.-@@ +@% #@@@@*                </tspan>
@@ -42,38 +42,45 @@
 <tspan x="0" y="607.0">                    #@@@@@@@@@@@..@@@@@@@# :* %@@@@@@@@@@@@@                  </tspan>
 </text>
 </g>
-<text font-size="17.77px" xml:space="preserve">
-<tspan x="429.7" y="43.8" fill="#cd8c07">OS:            </tspan>
-<tspan x="589.6" y="43.8" fill="#f2e6c8">Espanol x86_64, Scotland build</tspan>
-<tspan x="429.7" y="66.3" fill="#cd8c07">Host:          </tspan>
-<tspan x="589.6" y="66.3" fill="#f2e6c8">Apple Retail (10y: sales, support, lead)</tspan>
-<tspan x="429.7" y="88.9" fill="#cd8c07">Kernel:        </tspan>
-<tspan x="589.6" y="88.9" fill="#f2e6c8">self-taught-2.0-agents</tspan>
-<tspan x="429.7" y="111.4" fill="#cd8c07">Uptime:        </tspan>
-<tspan x="589.6" y="111.4" fill="#f2e6c8">2 years, still compiling</tspan>
-<tspan x="429.7" y="134.0" fill="#cd8c07">Packages:      </tspan>
-<tspan x="589.6" y="134.0" fill="#f2e6c8">9 repos, zero bloat</tspan>
-<tspan x="429.7" y="156.6" fill="#cd8c07">Shell:         </tspan>
-<tspan x="589.6" y="156.6" fill="#f2e6c8">bash, but I live in llama.cpp</tspan>
-<tspan x="429.7" y="179.1" fill="#cd8c07">Resolution:    </tspan>
-<tspan x="589.6" y="179.1" fill="#f2e6c8">2 years, no going back</tspan>
-<tspan x="429.7" y="201.7" fill="#cd8c07">WM:            </tspan>
-<tspan x="589.6" y="201.7" fill="#f2e6c8">Hyprland, via Omarchy</tspan>
-<tspan x="429.7" y="224.2" fill="#cd8c07">WM Theme:      </tspan>
-<tspan x="589.6" y="224.2" fill="#f2e6c8">No Skin Selectors</tspan>
-<tspan x="429.7" y="246.8" fill="#cd8c07">Theme:         </tspan>
-<tspan x="589.6" y="246.8" fill="#f2e6c8">Open Source Must Win [dark]</tspan>
-<tspan x="429.7" y="269.3" fill="#cd8c07">Icons:         </tspan>
-<tspan x="589.6" y="269.3" fill="#f2e6c8">hand-drawn calavera, no bones-and-ash</tspan>
-<tspan x="429.7" y="291.9" fill="#cd8c07">Terminal:      </tspan>
-<tspan x="589.6" y="291.9" fill="#f2e6c8">Ghostty, Omarchy default</tspan>
-<tspan x="429.7" y="314.5" fill="#cd8c07">Terminal Font: </tspan>
-<tspan x="589.6" y="314.5" fill="#f2e6c8">whatever shipped, never touched it</tspan>
-<tspan x="429.7" y="337.0" fill="#cd8c07">CPU:           </tspan>
-<tspan x="589.6" y="337.0" fill="#f2e6c8">irrelevant, ask the GPU</tspan>
-<tspan x="429.7" y="359.6" fill="#f0b030">GPU:           </tspan>
-<tspan x="589.6" y="359.6" fill="#f2e6c8">RTX 5090, the whole point</tspan>
-<tspan x="429.7" y="382.1" fill="#cd8c07">Memory:        </tspan>
-<tspan x="589.6" y="382.1" fill="#f2e6c8">Qwen3-27B, Q6 quantized (lossy, like memory)</tspan>
-</text>
+<rect x="470" y="32" width="664" height="140.5" rx="8" fill="none" stroke="#4a3105" stroke-width="1.5"/>
+<rect x="482" y="23" width="84.8" height="18" fill="#0f0c02"/>
+<text x="488" y="36" font-size="14px" letter-spacing="1px" fill="#f2e6c8" xml:space="preserve">Hardware</text>
+<text x="490" y="62" font-size="15px" fill="#cd8c07" xml:space="preserve">CPU</text>
+<text x="618" y="62" font-size="15px" fill="#f2e6c8" xml:space="preserve">Human (1) @ full attention</text>
+<text x="490" y="82.5" font-size="15px" fill="#cd8c07" xml:space="preserve">GPU</text>
+<text x="618" y="82.5" font-size="15px" fill="#f2e6c8" xml:space="preserve">2 × local inference rigs — paused</text>
+<text x="490" y="103" font-size="15px" fill="#cd8c07" xml:space="preserve">Display</text>
+<text x="618" y="103" font-size="15px" fill="#f2e6c8" xml:space="preserve">27" external, plenty of screen time</text>
+<text x="490" y="123.5" font-size="15px" fill="#cd8c07" xml:space="preserve">Disk</text>
+<text x="618" y="123.5" font-size="15px" fill="#f2e6c8" xml:space="preserve">a decade of notes, mostly Markdown</text>
+<text x="490" y="144" font-size="15px" fill="#cd8c07" xml:space="preserve">Memory</text>
+<text x="618" y="144" font-size="15px" fill="#f2e6c8" xml:space="preserve">10 years / always more to learn</text>
+<rect x="470" y="182.5" width="664" height="202" rx="8" fill="none" stroke="#4a3105" stroke-width="1.5"/>
+<rect x="482" y="173.5" width="84.8" height="18" fill="#0f0c02"/>
+<text x="488" y="186.5" font-size="14px" letter-spacing="1px" fill="#f2e6c8" xml:space="preserve">Software</text>
+<text x="490" y="212.5" font-size="15px" fill="#cd8c07" xml:space="preserve">OS</text>
+<text x="618" y="212.5" font-size="15px" fill="#f2e6c8" xml:space="preserve">Omarchy</text>
+<text x="490" y="233" font-size="15px" fill="#cd8c07" xml:space="preserve">Host</text>
+<text x="618" y="233" font-size="15px" fill="#f2e6c8" xml:space="preserve">Genius Bar, Madrid → homelab, Aberdeen</text>
+<text x="490" y="253.5" font-size="15px" fill="#cd8c07" xml:space="preserve">Kernel</text>
+<text x="618" y="253.5" font-size="15px" fill="#f2e6c8" xml:space="preserve">leading-is-serving 10.0-lts</text>
+<text x="490" y="274" font-size="15px" fill="#cd8c07" xml:space="preserve">WM</text>
+<text x="618" y="274" font-size="15px" fill="#f2e6c8" xml:space="preserve">Hyprland</text>
+<text x="490" y="294.5" font-size="15px" fill="#cd8c07" xml:space="preserve">Shell</text>
+<text x="618" y="294.5" font-size="15px" fill="#f2e6c8" xml:space="preserve">fzf</text>
+<text x="490" y="315" font-size="15px" fill="#cd8c07" xml:space="preserve">Terminal</text>
+<text x="618" y="315" font-size="15px" fill="#f2e6c8" xml:space="preserve">you are in it</text>
+<text x="490" y="335.5" font-size="15px" fill="#cd8c07" xml:space="preserve">Packages</text>
+<text x="618" y="335.5" font-size="15px" fill="#f2e6c8" xml:space="preserve">whatever ships (git)</text>
+<text x="490" y="356" font-size="15px" fill="#cd8c07" xml:space="preserve">Theme</text>
+<text x="618" y="356" font-size="15px" fill="#f2e6c8" xml:space="preserve">Tokyo Night (Omakase)</text>
+<rect x="470" y="394.5" width="664" height="99.5" rx="8" fill="none" stroke="#4a3105" stroke-width="1.5"/>
+<rect x="482" y="385.5" width="196.6" height="18" fill="#0f0c02"/>
+<text x="488" y="398.5" font-size="14px" letter-spacing="1px" fill="#f2e6c8" xml:space="preserve">Age / Uptime / Update</text>
+<text x="490" y="424.5" font-size="15px" fill="#cd8c07" xml:space="preserve">OS Age</text>
+<text x="618" y="424.5" font-size="15px" fill="#f2e6c8" xml:space="preserve">since Aug 2024</text>
+<text x="490" y="445" font-size="15px" fill="#cd8c07" xml:space="preserve">Uptime</text>
+<text x="618" y="445" font-size="15px" fill="#f2e6c8" xml:space="preserve">35 years, still compiling</text>
+<text x="490" y="465.5" font-size="15px" fill="#cd8c07" xml:space="preserve">Update</text>
+<text x="618" y="465.5" font-size="15px" fill="#f2e6c8" xml:space="preserve">open to support &amp; customer-facing roles</text>
 </svg>
