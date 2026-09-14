@@ -45,42 +45,42 @@
 <rect x="470" y="32" width="664" height="140.5" rx="8" fill="none" stroke="#4a3105" stroke-width="1.5"/>
 <rect x="482" y="23" width="84.8" height="18" fill="#0f0c02"/>
 <text x="488" y="36" font-size="14px" letter-spacing="1px" fill="#f2e6c8" xml:space="preserve">Hardware</text>
-<text x="490" y="62" font-size="15px" fill="#cd8c07" xml:space="preserve">CPU</text>
+<text x="490" y="62" font-size="15px" fill="#cd8c07" xml:space="preserve"><title>CPU</title>▧</text>
 <text x="618" y="62" font-size="15px" fill="#f2e6c8" xml:space="preserve">Human (1) @ full attention</text>
-<text x="490" y="82.5" font-size="15px" fill="#cd8c07" xml:space="preserve">GPU</text>
+<text x="490" y="82.5" font-size="15px" fill="#cd8c07" xml:space="preserve"><title>GPU</title>◆</text>
 <text x="618" y="82.5" font-size="15px" fill="#f2e6c8" xml:space="preserve">2 × local inference rigs — paused</text>
-<text x="490" y="103" font-size="15px" fill="#cd8c07" xml:space="preserve">Display</text>
+<text x="490" y="103" font-size="15px" fill="#cd8c07" xml:space="preserve"><title>Display</title>▭</text>
 <text x="618" y="103" font-size="15px" fill="#f2e6c8" xml:space="preserve">27" external, plenty of screen time</text>
-<text x="490" y="123.5" font-size="15px" fill="#cd8c07" xml:space="preserve">Disk</text>
+<text x="490" y="123.5" font-size="15px" fill="#cd8c07" xml:space="preserve"><title>Disk</title>▨</text>
 <text x="618" y="123.5" font-size="15px" fill="#f2e6c8" xml:space="preserve">a decade of notes, mostly Markdown</text>
-<text x="490" y="144" font-size="15px" fill="#cd8c07" xml:space="preserve">Memory</text>
+<text x="490" y="144" font-size="15px" fill="#cd8c07" xml:space="preserve"><title>Memory</title>◧</text>
 <text x="618" y="144" font-size="15px" fill="#f2e6c8" xml:space="preserve">10 years / always more to learn</text>
 <rect x="470" y="182.5" width="664" height="202" rx="8" fill="none" stroke="#4a3105" stroke-width="1.5"/>
 <rect x="482" y="173.5" width="84.8" height="18" fill="#0f0c02"/>
 <text x="488" y="186.5" font-size="14px" letter-spacing="1px" fill="#f2e6c8" xml:space="preserve">Software</text>
-<text x="490" y="212.5" font-size="15px" fill="#cd8c07" xml:space="preserve">OS</text>
+<text x="490" y="212.5" font-size="15px" fill="#cd8c07" xml:space="preserve"><title>OS</title>⌘</text>
 <text x="618" y="212.5" font-size="15px" fill="#f2e6c8" xml:space="preserve">Omarchy</text>
-<text x="490" y="233" font-size="15px" fill="#cd8c07" xml:space="preserve">Host</text>
+<text x="490" y="233" font-size="15px" fill="#cd8c07" xml:space="preserve"><title>Host</title>⌂</text>
 <text x="618" y="233" font-size="15px" fill="#f2e6c8" xml:space="preserve">Genius Bar, Madrid → homelab, Aberdeen</text>
-<text x="490" y="253.5" font-size="15px" fill="#cd8c07" xml:space="preserve">Kernel</text>
+<text x="490" y="253.5" font-size="15px" fill="#cd8c07" xml:space="preserve"><title>Kernel</title>⚙</text>
 <text x="618" y="253.5" font-size="15px" fill="#f2e6c8" xml:space="preserve">leading-is-serving 10.0-lts</text>
-<text x="490" y="274" font-size="15px" fill="#cd8c07" xml:space="preserve">WM</text>
+<text x="490" y="274" font-size="15px" fill="#cd8c07" xml:space="preserve"><title>WM</title>⊞</text>
 <text x="618" y="274" font-size="15px" fill="#f2e6c8" xml:space="preserve">Hyprland</text>
-<text x="490" y="294.5" font-size="15px" fill="#cd8c07" xml:space="preserve">Shell</text>
+<text x="490" y="294.5" font-size="15px" fill="#cd8c07" xml:space="preserve"><title>Shell</title>❯</text>
 <text x="618" y="294.5" font-size="15px" fill="#f2e6c8" xml:space="preserve">fzf</text>
-<text x="490" y="315" font-size="15px" fill="#cd8c07" xml:space="preserve">Terminal</text>
+<text x="490" y="315" font-size="15px" fill="#cd8c07" xml:space="preserve"><title>Terminal</title>◫</text>
 <text x="618" y="315" font-size="15px" fill="#f2e6c8" xml:space="preserve">you are in it</text>
-<text x="490" y="335.5" font-size="15px" fill="#cd8c07" xml:space="preserve">Packages</text>
+<text x="490" y="335.5" font-size="15px" fill="#cd8c07" xml:space="preserve"><title>Packages</title>▥</text>
 <text x="618" y="335.5" font-size="15px" fill="#f2e6c8" xml:space="preserve">whatever ships (git)</text>
-<text x="490" y="356" font-size="15px" fill="#cd8c07" xml:space="preserve">Theme</text>
+<text x="490" y="356" font-size="15px" fill="#cd8c07" xml:space="preserve"><title>Theme</title>◐</text>
 <text x="618" y="356" font-size="15px" fill="#f2e6c8" xml:space="preserve">Tokyo Night (Omakase)</text>
 <rect x="470" y="394.5" width="664" height="99.5" rx="8" fill="none" stroke="#4a3105" stroke-width="1.5"/>
 <rect x="482" y="385.5" width="196.6" height="18" fill="#0f0c02"/>
 <text x="488" y="398.5" font-size="14px" letter-spacing="1px" fill="#f2e6c8" xml:space="preserve">Age / Uptime / Update</text>
-<text x="490" y="424.5" font-size="15px" fill="#cd8c07" xml:space="preserve">OS Age</text>
+<text x="490" y="424.5" font-size="15px" fill="#cd8c07" xml:space="preserve"><title>OS Age</title>◷</text>
 <text x="618" y="424.5" font-size="15px" fill="#f2e6c8" xml:space="preserve">since Aug 2024</text>
-<text x="490" y="445" font-size="15px" fill="#cd8c07" xml:space="preserve">Uptime</text>
+<text x="490" y="445" font-size="15px" fill="#cd8c07" xml:space="preserve"><title>Uptime</title>◔</text>
 <text x="618" y="445" font-size="15px" fill="#f2e6c8" xml:space="preserve">35 years, still compiling</text>
-<text x="490" y="465.5" font-size="15px" fill="#cd8c07" xml:space="preserve">Update</text>
+<text x="490" y="465.5" font-size="15px" fill="#cd8c07" xml:space="preserve"><title>Update</title>↻</text>
 <text x="618" y="465.5" font-size="15px" fill="#f2e6c8" xml:space="preserve">open to support &amp; customer-facing roles</text>
 </svg>
