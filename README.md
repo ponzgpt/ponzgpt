@@ -16,4 +16,4 @@ Ex-Apple Genius, now in support engineering and open agents. Ten years of techni
 
 [StacksNRacks](https://github.com/ponzgpt/stacksnracks) (local AI hardware, tok/s per dollar) · [Hyperexcitability atlas](https://github.com/ponzgpt/hyperexcitability) (study atlas for neurophysiologists) · [BRINK](https://github.com/ponzgpt/brink) (an escalation game agents can play over MCP) · [Mental Models Toolkit](https://github.com/ponzgpt/mental-models-toolkit) · [Zero to Hero](https://github.com/ponzgpt/zero-to-hero) · [toomanyaitems](https://github.com/ponzgpt/toomanyaitems) · games: [ASI Rush](https://github.com/ponzgpt/asi-rush), [Tercios](https://github.com/ponzgpt/tercios)
 
-Portfolio and CV: **[javierponz.technoir.cloud](https://javierponz.technoir.cloud)** · [LinkedIn](https://www.linkedin.com/in/javierponz)
+Portfolio and CV: **[javierponz.technoir.cloud](https://javierponz.technoir.cloud)** · [LinkedIn](https://www.linkedin.com/in/javierponz) · [X @sudotechnoir](https://x.com/sudotechnoir) · Discord: sudotechnoir (Nous Research community)
