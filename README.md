@@ -2,6 +2,10 @@
 
 Ex-Apple Genius, now in support engineering and open agents. Ten years of technical support at Apple; today Hermes Agent is my daily driver (my main agent, Syl, runs on Hermes Cloud through Nous Portal). I'm a vibe coder: I decide what to build, specify it and test it, and AI agents write the code. Every repo says so.
 
+### Main project
+
+**[Machines Do It Better](https://github.com/ponzgpt/machines-do-it-better)** · [live](https://mdib.technoir.cloud): personal and business AI agents set up for you on open models and open harnesses like Hermes Agent, so you own them. Pre-launch: the first pilots are friends and family.
+
 ### Selected work
 
 - **[Neuronara](https://github.com/ponzgpt/neuronara)** · [live](https://neuronara.technoir.cloud): cited answers over clinical neurophysiology standards, built for my partner, a clinical neurophysiologist, and improved in a feedback loop with her.
