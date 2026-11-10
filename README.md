@@ -1,19 +1,12 @@
 <img src="https://raw.githubusercontent.com/ponzgpt/ponzgpt/main/card.svg?v=7" alt="quick facts card">
 
-Ex-Apple Genius, now in support engineering and open agents. Ten years of technical support at Apple; today Hermes Agent is my daily driver (my main agent, Syl, runs on Hermes Cloud through Nous Portal). I'm a vibe coder: I decide what to build, specify it and test it, and AI agents write the code. Every repo says so.
+Hi! I'm Javier, ex-Apple Genius. Ten years fixing people's tech; now I help people and their AI agents get unstuck. Hermes runs my day and I build plugins for it. Vibe coder, proud of it: I spec and test, AI agents write the code. Open source must win.
 
-### Main project
+- **[Machines Do It Better](https://github.com/ponzgpt/machines-do-it-better)** · [live](https://mdib.technoir.cloud): my main project, in progress. AI agents set up for you on open models and harnesses like Hermes, so you own them.
+- **[Psychopomp](https://github.com/ponzgpt/psychopomp)**: a Hermes plugin. Every week it helps you write a page of your life; if you ever go silent for good, it carries your words to the people you love.
+- **[Sabbath](https://github.com/ponzgpt/sabbath)**: a Hermes plugin. Your agent never rests. Now it rests with you.
+- **[Neuronara](https://github.com/ponzgpt/neuronara)** · [live](https://neuronara.technoir.cloud): cited answers over clinical neurophysiology standards, built for my partner and improved in a feedback loop with her.
+- **[ASI Rush](https://github.com/ponzgpt/asi-rush)** · [play](https://asi-rush.technoir.cloud): a clicker about the real race to AI, from a garage to superintelligence.
+- **[Post-Labor Wiki](https://github.com/ponzgpt/post-labor-wiki)** · [live](https://post-labor-wiki.technoir.cloud): a visual, source-first wiki on post-labor economics.
 
-**[Machines Do It Better](https://github.com/ponzgpt/machines-do-it-better)** · [live](https://mdib.technoir.cloud): personal and business AI agents set up for you on open models and open harnesses like Hermes Agent, so you own them. Pre-launch: the first pilots are friends and family.
-
-### Selected work
-
-- **[Neuronara](https://github.com/ponzgpt/neuronara)** · [live](https://neuronara.technoir.cloud): cited answers over clinical neurophysiology standards, built for my partner, a clinical neurophysiologist, and improved in a feedback loop with her.
-- **[hermes-contributions](https://github.com/ponzgpt/hermes-contributions)**: everything I built around Hermes Agent as a daily user, under one roof: onboarding, a CLI-shaped page, a model field guide and a PKM toolkit.
-- **[Memento Mori](https://github.com/ponzgpt/memento-mori)** · [live](https://memento.technoir.cloud): a privacy-first life-expectancy app and native widget, behind a release gate.
-
-### Also live
-
-[StacksNRacks](https://github.com/ponzgpt/stacksnracks) (local AI hardware, tok/s per dollar) · [Hyperexcitability atlas](https://github.com/ponzgpt/hyperexcitability) (study atlas for neurophysiologists) · [BRINK](https://github.com/ponzgpt/brink) (an escalation game agents can play over MCP) · [Mental Models Toolkit](https://github.com/ponzgpt/mental-models-toolkit) · [Zero to Hero](https://github.com/ponzgpt/zero-to-hero) · [toomanyaitems](https://github.com/ponzgpt/toomanyaitems) · games: [ASI Rush](https://github.com/ponzgpt/asi-rush), [Tercios](https://github.com/ponzgpt/tercios)
-
-Portfolio and CV: **[javierponz.technoir.cloud](https://javierponz.technoir.cloud)** · [LinkedIn](https://www.linkedin.com/in/javierponz) · [X @sudotechnoir](https://x.com/sudotechnoir) · Discord: sudotechnoir (Nous Research community)
+More about me, and everything else I've built: **[javierponz.technoir.cloud](https://javierponz.technoir.cloud)** · [LinkedIn](https://www.linkedin.com/in/javierponz) · [X @sudotechnoir](https://x.com/sudotechnoir) · Discord: sudotechnoir
