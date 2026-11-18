@@ -9,4 +9,4 @@ Hi! I'm Javier, ex-Apple Genius. Ten years fixing people's tech; now I help peop
 - **[ASI Rush](https://github.com/ponzgpt/asi-rush)** · [play](https://asi-rush.technoir.cloud): a clicker about the real race to AI, from a garage to superintelligence.
 - **[Post-Labor Wiki](https://github.com/ponzgpt/post-labor-wiki)** · [live](https://post-labor-wiki.technoir.cloud): a visual, source-first wiki on post-labor economics.
 
-More about me, and everything else I've built: **[javierponz.technoir.cloud](https://javierponz.technoir.cloud)** · [LinkedIn](https://www.linkedin.com/in/javierponz) · [X @sudotechnoir](https://x.com/sudotechnoir) · Discord: sudotechnoir
+More about me, and everything else I've built: **[javierponz.technoir.cloud](https://javierponz.technoir.cloud)** · [LinkedIn](https://www.linkedin.com/in/javierponz) · [X @sudotechnoir](https://x.com/sudotechnoir) · Discord: sudotechnoir · Email: jponz@proton.me
